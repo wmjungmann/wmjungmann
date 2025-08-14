@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Matthew Jungmann
 
-<!--
-**wmjungmann/wmjungmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Graduate** | 📍 Irish & US Citizen | 🏉 Sport Enthusiast | 🏃 Marathon Finisher
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎓 First Class Honours in Computer Science – Technological University Dublin :ireland: and Hanyang University :kr:
+- 🧠 Experienced in: **Python**, **Flask**, **React Native**, **Tesseract OCR**
+- 💼 Interested in: **FinTech**, **AI/ML**, **Data Engineering**
+- 🎸 Self-taught guitar player (not very good)
+
+---
+
+## 🛠 Tech Stack
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| React Native | Flask | PostgreSQL | Git, Docker |
+| JavaScript | Python | SQLite | Linux, VS Code |
+|  Node.JS  |   PHP    |  MongoDB  |  LLMs |
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matthew-jungmann)
+[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A7-lightgrey)](mailto:wmjungmann@gmail.com)
+
+---
