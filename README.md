@@ -7,7 +7,7 @@
 ## 💡 About Me
 - 🎓 First Class Honours in Computer Science – Technological University Dublin :ireland: and Hanyang University :kr:
 - 🧠 Experienced in: **Python**, **Flask**, **React Native**
-- 💼 Interested in: **FinTech**, **AI/ML**, **Data Engineering**
+- 💼 Interested in: **Backend Development**, **AI/ML**, **Data Engineering**
 - 🎸 Self-taught guitar player (not very good)
 
 ---
